@@ -1,0 +1,2 @@
+# hostname
+HOSTNAME=pc200500707
